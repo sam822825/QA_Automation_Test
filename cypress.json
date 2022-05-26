@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.demo.bnz.co.nz/client/",  
+    "chromeWebSecurity": false,
+    "headers": { "Accept-Encoding": "gzip, deflate" },
+    "viewportWidth": 1920,
+    "viewportHight": 1080,
+    "defaultCommandTimeout": 10000
+}

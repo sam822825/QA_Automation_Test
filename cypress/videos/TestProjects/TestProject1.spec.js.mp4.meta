@@ -1,0 +1,76 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-14188
+END=10083
+title=UI Test TC1: Page navigation
+[CHAPTER]
+TIMEBASE=1/1000
+START=6855
+END=37631
+title=UI Test TC2: Add new payee
+[CHAPTER]
+TIMEBASE=1/1000
+START=41831
+END=68491
+title=UI Test TC3: Validating payee name is required field
+[CHAPTER]
+TIMEBASE=1/1000
+START=74089
+END=95165
+title=UI Test TC4: Able to sort Payees by name
+[CHAPTER]
+TIMEBASE=1/1000
+START=81544
+END=116275
+title=UI Test TC5: Payment page
+[CHAPTER]
+TIMEBASE=1/1000
+START=131952
+END=151044
+title=UI Test TC1: Page navigation
+[CHAPTER]
+TIMEBASE=1/1000
+START=145350
+END=170149
+title=UI Test TC2: Add new payee
+[CHAPTER]
+TIMEBASE=1/1000
+START=173092
+END=194965
+title=UI Test TC3: Validating payee name is required field
+[CHAPTER]
+TIMEBASE=1/1000
+START=191928
+END=216864
+title=UI Test TC4: Able to sort Payees by name
+[CHAPTER]
+TIMEBASE=1/1000
+START=201651
+END=241818
+title=UI Test TC5: Payment page
+[CHAPTER]
+TIMEBASE=1/1000
+START=265845
+END=283560
+title=UI Test TC1: Page navigation
+[CHAPTER]
+TIMEBASE=1/1000
+START=280911
+END=301294
+title=UI Test TC2: Add new payee
+[CHAPTER]
+TIMEBASE=1/1000
+START=302311
+END=321691
+title=UI Test TC3: Validating payee name is required field
+[CHAPTER]
+TIMEBASE=1/1000
+START=322037
+END=341087
+title=UI Test TC4: Able to sort Payees by name
+[CHAPTER]
+TIMEBASE=1/1000
+START=331323
+END=360149
+title=UI Test TC5: Payment page
